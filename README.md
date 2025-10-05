@@ -222,13 +222,13 @@ curl http://localhost:8085/notifications/1
 
 ## Contributors/Team Members
 
-|      Names          | Student Number|
-| -------------------:|--------------:|
-| Hermaine Kharugas   | 224001833     |
-| Rafael Timotheus    | 222059710     |
-| Nestor Shikulo      | 222059702     |
-| El-Salvador Pashita | 223057606     |
-| Uushona Selma       | 222081368     |
-| Absalom Elindi      | 223077518     |
+|      Names           | Student Number|
+| --------------------:|--------------:|
+| Hermaine Kharugas    | 224001833     |
+| Rafael Timotheus     | 222059710     |
+| Nestor Shikulo       | 222059702     |
+| El-Salvador Pashita  | 223057606     |
+| Uushona Selma        | 222081368     |
+| Absalom Elindi       | 223077518     |
 
 
