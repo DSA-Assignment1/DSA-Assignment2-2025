@@ -228,7 +228,7 @@ curl http://localhost:8085/notifications/1
 | Rafael Timotheus | 222059710     |
 | Nestor Shikulo   | 222059702     |
 | El-Salvador Pashita| 223057606   |
-| Uushona Selma    | 222081368     |
+| Uushona Selma    | 222081368   |
 | Absalom Elindi   | 223077518     |
 
 
